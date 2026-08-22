@@ -1,0 +1,49 @@
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# Environment Variables
+
+.env
+.env.*
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Pytest
+
+.pytest_cache/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Build / Distribution
+
+build/
+dist/
+*.egg-info/
