@@ -1,9 +1,7 @@
 import requests
 import streamlit as st
 
-
-API_URL = "API_URL = "https://llm-backend-service-production.up.railway.app""
-
+API_URL = "https://llm-backend-service-production.up.railway.app"
 st.set_page_config(
     page_title="LLM Chat",
     page_icon="🤖",
