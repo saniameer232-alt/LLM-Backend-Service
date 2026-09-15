@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 
 
-API_URL = "https://accurate-comfort-production-040c.up.railway.app/"
+API_URL = "llm-backend-service-production.up.railway.app"
 
 st.set_page_config(
     page_title="LLM Chat",
